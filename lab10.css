@@ -1,0 +1,97 @@
+.jumbotron {
+    
+    border-radius: 10px;
+    background: linear-gradient(
+        rgba(0, 0, 250, 0.25),
+        rgba(125, 250, 250, 0.45)
+    ), url("https://th.bing.com/th/id/R.361e21620ff4428245d2fb493881c17b?rik=ZCeetqB3DRNQlw&riu=http%3a%2f%2fwww.cloveacresnewyorkcorgis.com%2fsitebuildercontent%2fsitebuilderpictures%2fwebassets%2fIMG_5668.JPG&ehk=uERVwWx8I8%2ftD7OGRKBJNSt%2facqGedYkCy2%2b2yuEfzs%3d&risl=&pid=ImgRaw&r=0"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    color: white !important;
+    height: 340px;
+}
+
+.display-2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.lead {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.col {
+    text-align: center;
+    padding: 10px;
+}
+.col i {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.gallery {
+    font-size: 50px;
+    text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.feedback-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+
+.feedback-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+.feedback-button:hover {
+    background-color: #0056b3;
+}
+
+.feedback {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+.card {
+    
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+    transition: transform 0.3s ease;
+}
+
+
+.btn-primary:hover {
+    transform: scale(1.1);
+}
